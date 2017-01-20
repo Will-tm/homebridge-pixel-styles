@@ -1,0 +1,24 @@
+{
+  "name": "homebridge-pixel-styles",
+  "version": "0.0.9",
+  "license": "ISC",
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "author": "@will_tm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Will-tm/homebridge-pixel-styles.git"
+  },
+  "keywords": [
+    "homebridge-plugin",
+    "RGB Styles",
+    "Pixel Styles"
+  ],
+  "description": ""
+}
